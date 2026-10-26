@@ -13,3 +13,10 @@ pkg install code-server
 bind-addr: 0.0.0.0:8080
 auth: none
 ```
+
+## git
+
+```
+git config --global user.email "keerthivarman.nageshwaran.outlook.com"
+git config --global user.name "Keerthivarman Nageshwaran"
+```
